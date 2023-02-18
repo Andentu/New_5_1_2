@@ -4,6 +4,10 @@
     {
         static void Main(string[] args)
         {
+            ShowColor();
+        }
+        static void ShowColor () 
+        { 
             int i = 1;
             while (true)
             {
